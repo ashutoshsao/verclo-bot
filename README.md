@@ -3,7 +3,7 @@
 
 -instructions to run this bot  
 -1. create/add discord bot token from https://discord.com/developers/applications to token.txt  
--2. add sender's mail adress and password to config.txt  
+-2. add sender's mail adress and password to config.py 
 -3. add server unique ID, tokenbot unique ID to bot.py  
 -4. run bot.py script.
 
