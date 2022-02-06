@@ -12,7 +12,7 @@ def read_token():
     with open('token.txt','r') as f:
         lines = f.readlines()
         return lines[0].strip()
-codex=randint(6)
+codex=random.randint(100000,999999)
 print("OTP=",codex)
 token = read_token()
 client = discord.Client()
