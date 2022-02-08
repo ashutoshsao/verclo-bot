@@ -1,7 +1,7 @@
 # Discord verclo bot
 -verclo stands for verification over cloud
 
--instructions to run this bot  
+-Instructions to run this bot  
 -1. create/add discord bot token from https://discord.com/developers/applications to token.txt  
 -2. add sender's mail adress and password to config.py 
 -3. add server unique ID, tokenbot unique ID to bot.py  
