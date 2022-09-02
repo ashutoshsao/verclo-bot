@@ -8,7 +8,7 @@
 4. run bot.py script.
 
 - Following is the algorithm of how I am trying to make this bot work.  
-1. the bot will work 24/7 on aws lambda  
+1. The bot will work 24/7 on aws lambda  
 2. bot will take mail id from user and check if its valid  
 3. if yes, it will send a code to the user's mail and ask him to input the code  
 4. if the code matches, the bot will assign the role to the user as verified  
